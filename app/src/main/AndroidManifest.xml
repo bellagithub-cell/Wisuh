@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="id.ac.umn.wisuh.NearbyActivity"></activity>
+        <activity android:name="id.ac.umn.wisuh.HomeActivity"></activity>
         <activity android:name="id.ac.umn.wisuh.RegisterActivity"></activity>
         <activity android:name="id.ac.umn.wisuh.MainActivity"></activity>
     </application>
